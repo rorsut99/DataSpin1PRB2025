@@ -19,8 +19,6 @@ Fig5.jld2:<br />
 
 ### Files for Figure 6
 
-### Files for Figure 8
-
 ### Files for Figure 10
 
 ### Files for Figure 12
