@@ -15,7 +15,7 @@ All files are saved in the JLD2 format.
 Fig5.jld2:<br />
   - Data for the heat capcity of a S=1 antiferromagnet of the cubic lattice, coupled to two phonons:<br />
   -T: temperature data<br />
-  -heats: heat capacity $C_v$<br />
+  -heats: heat capacity, $C_v$<br />
 
 ### Files for Figure 6
 
