@@ -3,7 +3,7 @@ Data for the manuscript "SU(N) spin-phonon simulations of Floquet dynamics in sp
 by Ruairidh Sutcliffe, Kathleen Hart, Gil Refael and Arun Paramekanti
 
 ## File details:
-All files are saved in the JLD2 format.
+All files are saved in the JLD2 format. Refer to original work for details of simulations and further model parameters.
 
 ### Files for Figure 2
 fig2.jld2:<br />
