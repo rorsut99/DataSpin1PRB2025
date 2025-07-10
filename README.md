@@ -51,7 +51,22 @@ fig5cd.jld2
   - data is saved with the same format as fig6ab.jld2, but for the spin-3/2 example.
 
 ### Files for Figure 8
+fig8.jld2
+  - t_AFM: time in units of $\hbar/J$<br />
+  - M_AFM: Staggered magnetization $M^\pi$ in the AFM phase with a two-phonon drive
+  - t_QPM: time in units of $\hbar/J$<br />
+  - M_QPM: Staggered magnetization $M^\pi$ in the QPM phase with a two-phonon drive
 
 ### Files for Figure 10
+fig10.jld2
+  - qs: wavevectors $q$ in units of $2\pi$
+  - ws: energies $\omega$
+  - DSSF_spinOnly: Driven dynamical spin structure factor $\mathcal{S}(q,\omega)$ without spin-phonon coupling
+  - DSSF_undriven: Driven dynamical spin structure factor $\mathcal{S}(q,\omega)$ with spin-phonon coupling and no phonon drive
+  - DSSF_driven: Driven dynamical spin structure factor $\mathcal{S}(q,\omega)$ with spin-phonon coupling and a one phonon drive
 
 ### Files for Figure 12
+fig12.jld2
+  - qs: wavevectors $q$ in units of $2\pi$
+  - ws: energies $\omega$
+  - DSSF_sidebands: Driven dynamical spin structure factor $\mathcal{S}(q,\omega)$ with a one phonon drive at higher energies (near $\omega \sim 40$)
