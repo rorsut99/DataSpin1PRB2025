@@ -6,6 +6,12 @@ by Ruairidh Sutcliffe, Kathleen Hart, Gil Refael and Arun Paramekanti
 All files are saved in the JLD2 format.
 
 ### Files for Figure 2
+fig2.jld2:<br />
+  - tpoints: time in units of $\hbar/J$
+  - Sz_AFM_HighDrive: Uniform magnetization $M_z^0$ in the AFM phase with a drive of $A = 0.2$
+  - Sz_AFM_LowDrive: Uniform magnetization $M_z^0$ in the AFM phase with a drive of $A = 0.1$
+  - Sz_QPM_HighDrive: Uniform magnetization $M_z^0$ in the QPM phase with a drive of $A = 0.2$
+  - Sz_QPM_LowDrive: Uniform magnetization $M_z^0$ in the QPM phase with a drive of $A = 0.1$
 
 ### Files for Figure 3
 
