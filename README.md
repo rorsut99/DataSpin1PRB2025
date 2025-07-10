@@ -14,6 +14,13 @@ fig2.jld2:<br />
   - Sz_QPM_LowDrive: Uniform magnetization $M_z^0$ in the QPM phase with a drive of $A = 0.1$<br />
 
 ### Files for Figure 3
+fig3.jld2
+  - t_AFM: time in units of $\hbar/J$<br />
+  - Mx_AFM: Staggered magnetization $M_x^\pi$ in the AFM phase with a one-phonon drive
+  - My_AFM: Staggered magnetization $M_y^\pi$ in the AFM phase with a one-phonon drive
+  - t_QPM: time in units of $\hbar/J$<br />
+  - Mx_QPM: Staggered magnetization $M_x^\pi$ in the QPM phase with a one-phonon drive
+  - My_QPM: Staggered magnetization $M_y^\pi$ in the QPM phase with a one-phonon drive
 
 ### Files for Figure 4
 
