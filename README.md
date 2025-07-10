@@ -23,6 +23,14 @@ fig3.jld2
   - My_QPM: Staggered magnetization $M_y^\pi$ in the QPM phase with a one-phonon drive
 
 ### Files for Figure 4
+fig4.jld2:
+  - qs: wavevectors in units of $2\pi$
+  - ws: energies $\omega$
+  - DSSF_driven: Driven dynamical spin structure factor $\mathcal{S}(q,\omega) with a one phonon drive
+  - blue_curve: Driven dynamical spin structure factor $\mathcal{S}(q,\omega) at $q = (\pi,\pi,\pi)$
+  - orange_curve: Equilibrium dynamical spin structure factor $\mathcal{S}(q,\omega) at $q = (\pi,\pi,\pi)$
+  - blue_curve_inset: Driven dynamical spin structure factor $\mathcal{S}(q,\omega) at $q = 1.3(\pi,\pi,\pi)$
+  - orange_curve_inset: Equilibrium dynamical spin structure factor $\mathcal{S}(q,\omega) at $q = 1.3(\pi,\pi,\pi)$
 
 ### Files for Figure 5
 Fig5.jld2:<br />
